@@ -1,6 +1,6 @@
 #!/usr/local/bin/python2.7
 
-# usage: vgs.py [-h] [-a] [-r]
+# usage: vgs_cdf.py [-h] [-a] [-r]
 # optional arguments:
 #   -h, --help       show this help message and exit
 #   -a, --alternate  displays key combos and asks for the messages (default is
